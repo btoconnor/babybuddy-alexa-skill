@@ -23,7 +23,7 @@ import {
   SleepIntentHandler,
   TotalFeedingsIntentHandler,
   TummyTimeIntentHandler,
-  RecordTummyTimeIntentHandler,
+  RecordTummyTimeIntentHandler
 } from './handlers';
 
 const handler = SkillBuilders.custom()
