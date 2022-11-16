@@ -1,9 +1,6 @@
 name: ESLint
 
 on:
-  push:
-    branches:
-      - "btoconnor.add_prettier"
   pull_request:
     branches:
       - "master"
